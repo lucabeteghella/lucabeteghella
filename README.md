@@ -1,4 +1,4 @@
-<h1> Hello! I´m Luca </h1>
+<h1> Hello! Welcome to my github profile </h1>
 
 <div>
   <a href="https://github.com/lucabeteghella">
